@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jathin9
+- 👋 Hi, I’m Arun philip sizeon
 - 👀 I’m interested in web development and coding
 - 🌱 I’m currently learning js,html,etc,...
 - 💞️ I’m looking to collaborate on anything based on wd and coding
